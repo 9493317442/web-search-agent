@@ -1,0 +1,36 @@
+# Web Search AI Agent
+
+## Overview
+
+A simple AI agent built using Python that accepts user queries, generates responses, and stores query history.
+
+## Features
+
+* Accepts user input
+* Generates responses
+* Stores query history
+* Supports scheduled follow-ups
+
+## Technologies Used
+
+* Python
+* JSON
+* Scheduling
+
+## Files
+
+* agent.py
+* scheduler.py
+
+## How to Run
+
+```bash
+python agent.py
+```
+
+## Future Improvements
+
+* Real-time web search
+* OpenAI integration
+* Multi-agent architecture
+* Database storage
